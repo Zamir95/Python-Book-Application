@@ -1,0 +1,42 @@
+[
+    {
+        "id": 21,
+        "name": "fff",
+        "description": "eee",
+        "isbn": "fgg",
+        "page_count": 222,
+        "issued": false,
+        "author": "fffff",
+        "year": 2000
+    },
+    {
+        "id": 0,
+        "name": "2wqe",
+        "description": "qwfag",
+        "isbn": "asd",
+        "page_count": 223,
+        "issued": false,
+        "author": "22d",
+        "year": 0
+    },
+    {
+        "id": 22,
+        "name": "chronicles",
+        "description": "dark",
+        "isbn": "what is going on",
+        "page_count": 223,
+        "issued": true,
+        "author": "what is going on",
+        "year": 2011
+    },
+    {
+        "id": 222,
+        "name": "How to program ",
+        "description": "Learning coding",
+        "isbn": "2222-333-22-1-2",
+        "page_count": 2000,
+        "issued": true,
+        "author": "Zamir",
+        "year": 2002
+    }
+]
